@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "flutter-news-app-444",
+          "appId": "1:667077324565:android:6f21651bb5dd2961e3031c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flutter-news-app-444",
+          "configurations": {
+            "android": "1:667077324565:android:6f21651bb5dd2961e3031c"
+          }
+        }
+      }
+    }
+  }
+}
